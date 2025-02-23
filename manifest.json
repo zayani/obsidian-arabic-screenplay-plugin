@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "arabic-screenplay",
+	"name": "Arabic Screenplay",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Format the text in the style of Arabic screenplay",
+	"author": "zayani",
+	"authorUrl": "https://github.com/zayani/",
+	"fundingUrl": "https://github.com/zayani/",
 	"isDesktopOnly": false
 }
